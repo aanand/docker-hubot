@@ -1,6 +1,8 @@
 Dockerfile for an IRC-enabled Hubot
 ===================================
 
+This is also available in the Docker public image index as [aanand/hubot](https://index.docker.io/u/aanand/hubot/).
+
 Building
 --------
 
