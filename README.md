@@ -5,7 +5,7 @@ Building
 --------
 
     $ git clone https://github.com/aanand/docker-hubot.git
-    $ docker build docker-hubot -t hubot
+    $ docker build -t hubot docker-hubot
 
 Running
 -------
